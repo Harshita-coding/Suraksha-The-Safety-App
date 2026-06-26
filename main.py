@@ -7,8 +7,8 @@ import time
 import os
 
 # 🔐 CONFIG (change later for safety)
-sender_email = "jash.coldcoffee@gmail.com"
-app_password = "oyrjwwsdbjxcqykh"
+sender_email = "YOUR_EMAIL"
+app_password = "YOUR_PASSWORD"
 
 CONTACT_FILE = "contact.txt"
 
